@@ -1,8 +1,8 @@
 # bike_rent_StatisticVis
 
-## PyChart Data Visualization
+## PyeChart Data Visualization
 
-In this project, we utilize [PyChart](https://pyecharts.org/) for creating data visualization charts.
+In this project, we utilize [PyeChart](https://pyecharts.org/) for creating data visualization charts.
 
 The following five images are static screenshots generated from HTML created by Pyecharts. You can download these images and interact with them.
 
