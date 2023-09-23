@@ -10,7 +10,7 @@ The following five images are static screenshots generated from HTML created by 
    <img src="image1.png" alt="image 1" width="400" />
    - [Download the original HTML for image 1](image1.html)
 
-4. image 2
+2. image 2
    <img src="image2.png" alt="image 2" width="400" />
    - [Download the original HTML for image 2](image2.html)
 
