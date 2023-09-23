@@ -2,7 +2,7 @@
 
 ## PyChart Data Visualization
 
-In this project, we utilize [PyChart](https://example.com/pychart) for creating data visualization charts.
+In this project, we utilize [PyChart](https://pyecharts.org/) for creating data visualization charts.
 
 <img src="image1.png" alt="Image 1" width="300" /> <img src="image2.png" alt="Image 2" width="300" /> <img src="image3.png" alt="Image 3" width="370" />
 <br>
