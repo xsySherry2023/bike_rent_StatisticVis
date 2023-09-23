@@ -1,2 +1,2 @@
 # bike_rent_StatisticVis
-![Image 1](image1.jpg) ![Image 2](image2.jpg) ![Image 3](image3.jpg)
+![Image 1](image1.png) ![Image 2](image2.png) ![Image 3](image3.png)
