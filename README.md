@@ -1,2 +1,3 @@
 # bike_rent_StatisticVis
-![Image 1](image1.png) ![Image 2](image2.png) ![Image 3](image3.png)
+<img src="image1.png" alt="Image 1" width="200" /> <img src="image2.png" alt="Image 2" width="200" /> <img src="image3.png" alt="Image 3" width="200" />
+
